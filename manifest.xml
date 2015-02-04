@@ -1,0 +1,17 @@
+<package>
+  <description brief="second_tutorials">
+
+     second_tutorials
+
+  </description>
+  <author>Tedy Tri Saputro</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/second_tutorials</url>
+  <depend package="turtlesim"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
